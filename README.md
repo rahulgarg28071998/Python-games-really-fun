@@ -1,4 +1,4 @@
-# Python-games-really-fun
+# Python-games
 implementation of various good games
 #requires pygame
 #pumunk
